@@ -1,0 +1,3 @@
+{:paths ["src"]
+ :deps {com.novemberain/langohr {:mvn/version "5.1.0"}
+        org.clojure/tools.reader {:mvn/version "1.3.6"}}}
